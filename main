@@ -61,5 +61,4 @@ void loop() {
 
 ThingSpeak.writeField(myChannelField, ChannelField, distance, myWriteAPIKey);
  delay(15000);  
-
 }
